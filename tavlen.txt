@@ -39,14 +39,13 @@ Zeus
 Zuricho
 medicineren ** 2
 Ålen
-Celik
 T6OSEKR
 T2OPR
 OPR ** 2
 OSEKR
 BSEKR ** 2
 GPR ** 2
-{ --- }
+{ ---- }
 GINKA
 Sean
 Poul
@@ -54,13 +53,12 @@ T5OCERM
 T4OCERM
 TOCERM
 CERM
-VC ** 2
-dillerFORM ** 3
+VC
 NF
 BNF
 T5ONF
 T6ONF
-T8ONF
+T7ONF
 GFUAN
 OFUAN
 TOFUAN
@@ -71,3 +69,4 @@ EFUIT
 OEFUIT
 TOEFUIT ** 5
 T4OEFUIT
+dillerFORM ** 3
